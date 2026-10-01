@@ -1,0 +1,11 @@
+{
+  "robot.language-server.python": "python",
+  "editor.formatOnSave": true,
+  "[robot]": {
+    "editor.defaultFormatter": "robocorp.robotframework-lsp"
+  },
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.pytest_cache": true
+  }
+}
